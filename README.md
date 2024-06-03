@@ -22,7 +22,7 @@ const CodyChrist = {
             python: ["Django", "FastAPI", "Flask"]
         },
         databases: ["PostgreSQL", "MySQL", "MongoDB", "DynamoDB"],
-        misc: ["Shopify", "Strapi", "OAuth", "GraphQL"],
+        misc: ["AWS", "Shopify", "OAuth", "GraphQL"],
         aws: ["Lambda", "ECS", "EKS", "Kinesis", "Cognito"]
     },
     funFact: "The first computer “bug” was an actual real-life bug"
