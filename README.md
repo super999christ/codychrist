@@ -30,7 +30,3 @@ const CodyChrist = {
 ```
 
 ---
-
-
-### 💻 My most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super999christ&layout=compact&text_color=daf7dc&bg_color=151515)]
